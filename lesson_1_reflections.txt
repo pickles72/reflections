@@ -1,0 +1,57 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It made it easier by allowing me to see the what I had changed distinctly from what I had not changed.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Because I'd be able to rewind time essentially, when I mess up.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Because I want to have complete, working programs updated and not programs in limbo that dont compile
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because they're projects not just files
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Log shows commits diff shows differences
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Because I know I can just go back
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    All my large projects
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+    It would make it so that I could see differences in my program over time
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+    It’s useful because you can establish breakpoints, or useful stopping points where there is enough change to need to be it’s own entity but not enough that it’s impossible to compare.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+    
+    Git allows multi file commits because the files are interdependent on one another whereas in gDrive, the files are generally stand alone.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log shows the file’s history, git diff shows the file’s differences
+
+How might using version control make you more confident to make changes that could break something?
+
+    Because I can see where I broke it and how to fix it!
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    EVERYTHING
