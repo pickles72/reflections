@@ -1,3 +1,7 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
     It is the inbetween stage, the filter. It offers some lack of commitment
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+    Because I dont have to stage everything at the same time
