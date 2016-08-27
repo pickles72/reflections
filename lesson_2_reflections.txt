@@ -5,3 +5,20 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical change?
 
     Because I dont have to stage everything at the same time
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+    In creating new versions of the project, working on a new feature to integrate, or any other major variation in the program, it would make it immensely easier to not mess with the original code but work on some off shoot of it.
+
+How do the diagrams help you visualize the branch structure?
+
+    It makes it easier to see where I am spatially within the structure which is extremely beneficial.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+    Because it combines the two branches into one
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+    Being able to control what happens when there’s a conflict of interest is imperative in programming so that the version control system doesn’t automatically create massive problems.
